@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **peazzycole@gmail.com**
+- 📫 How to reach me **peazzycole@gmail.com** or **salem4real10@gmail.com**
 
 - ⚡ Fun fact **I am outgoing and Funny**
 
