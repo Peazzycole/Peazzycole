@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/peazzycole1" target="blank"><img src="https://img.shields.io/twitter/follow/peazzycole1?logo=twitter&style=for-the-badge" alt="peazzycole1" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **peazzycole@gmail.com**
 
